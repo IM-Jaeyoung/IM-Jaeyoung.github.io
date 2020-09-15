@@ -96,12 +96,12 @@ author:
   name             : "JYIM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D Student."
-  location         : "Seoul, Rep. of KOREA"
-  email            :
+  location         : "Seoul, Rep. of Korea"
+  email            : "jyim@mpeg.korea.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:jyim@mpeg.korea.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
