@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D Student."
   location         : "Seoul, Rep. of Korea"
-  email            : "jyim@mpeg.korea.ac.kr"
+  email            : # "jyim@mpeg.korea.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
